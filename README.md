@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/alerafart/alerafart/blob/main/img/alex.jpg)
+![Cover](https://github.com/alerafart/alerafart/blob/main/img/alex.png)
 <!--
 **alerafart/alerafart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
