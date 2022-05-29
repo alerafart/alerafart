@@ -3,7 +3,7 @@
 ![Cover](https://github.com/alerafart/alerafart/blob/main/img/alex.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alerafart&count_private=true&hide=stars&show_icons=true&theme=merko)
-<img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alerafart&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=merko" />
+<img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alerafart&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=merko&exclude_repo=github-readme-stats,html-css-excercise-cv" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alerafart&theme=merko&exclude_repo=github-readme-stats,html-css-excercise-cv)](https://github.com/alerafart/github-readme-stats)
 <!--
