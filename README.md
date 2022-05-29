@@ -1,9 +1,10 @@
 ### Hi there 👋
 Welcome to my profile!
 ![Cover](https://github.com/alerafart/alerafart/blob/main/img/alex.png)
+<p>
 I'm a brand new developer working mostly in React and also php.
 🌱 I’m currently learning lots of stuff everyday and I'm looking for my first job as a front-end developer.
-
+</p>
 <p align="left">📫 How to reach me:
 <a href="mailto:maalejandrarafart@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
