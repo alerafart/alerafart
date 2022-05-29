@@ -2,7 +2,7 @@
 
 ![Cover](https://github.com/alerafart/alerafart/blob/main/img/alex.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alerafart&count_private=true&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alerafart&count_private=true&hide=stars&show_icons=true)
 <!--
 **alerafart/alerafart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
