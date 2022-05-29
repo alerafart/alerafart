@@ -7,15 +7,13 @@ I'm a brand new developer working mostly in React and also php.
 </p>
 <p align="left">📫 How to reach me: 
     <a href="mailto:maalejandrarafart@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    
-    <a href="https://www.linkedin.com/in/rafart-alejandra/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
- </p>
- <p>
-    
+        <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p>
+   <a href="https://www.linkedin.com/in/rafart-alejandra/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
