@@ -14,7 +14,7 @@
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </h3>
 <h3 align="center"> Projects <br><br>
-    <p align="center">
+    <p align="center"> La fabrique des rires :clown_face: (en cours)
         <a href="https://alerafart-blagues.surge.sh/" target="_blank">
             <img height="125px" src="img/laughing.svg" />
         </a>
