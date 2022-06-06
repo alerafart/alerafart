@@ -13,9 +13,9 @@ I'm a brand new developer working mostly in React and also php.
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<h3 align="center"> Projects
+<h3 align="center"> Projects <br>
     <p align="center">
-        <a href="https://alerafart-blagues.surge.sh/">
+        <a href="https://alerafart-blagues.surge.sh/" target="_blank">
             <img height="125px" src="img/laughing.svg" />
         </a>
     </p>
