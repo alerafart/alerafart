@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there 👋 ! Welcome to my profile!</h1>
-<img align="center" height="190px" src="https://github.com/alerafart/alerafart/blob/main/img/alex.png">
+<p align="center"><img align="center" height="190px" src="https://github.com/alerafart/alerafart/blob/main/img/alex.png"></p>
 <h2>
 I'm a brand new developer working mostly in React and also php.
 🌱 I’m currently learning lots of stuff everyday and I'm looking for my first job as a front-end developer.
