@@ -1,5 +1,5 @@
-### Hi there 👋
-Welcome to my profile!
+
+<h1 align="center">### Hi there 👋 ! Welcome to my profile!</h1>
 ![Cover](https://github.com/alerafart/alerafart/blob/main/img/alex.png)
 <p>
 I'm a brand new developer working mostly in React and also php.
@@ -13,11 +13,11 @@ I'm a brand new developer working mostly in React and also php.
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<p>
-   <a href="https://www.linkedin.com/in/rafart-alejandra/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<h3 align="center"> Projects
+    <a href="https://alerafart-blagues.surge.sh/">
+        <img height="125px" src="img/laughing.svg" />
+    </a>
+</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alerafart&count_private=true&hide=stars&show_icons=true&theme=merko)
