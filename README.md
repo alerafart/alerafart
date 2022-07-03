@@ -19,13 +19,16 @@
             <a href="https://www.jokefactory.alerafart.com/" target="_blank">
                 <img height="125px" src="img/laughing.svg" />
             </a>
-        </p>   
-        <p align="center"> MeetDev project done in groupe of 5 developers
-            <a href="http://www.meetdev.alerafart.com/" target="_blank">
-                <img height="125px" src="img/rocket.png" />
-            </a>
-        </p>   
+        </p>  
     </p>
+        <p align="center"> MeetDev project done in groupe of 5 developers
+            <p align="center">
+                <a href="http://www.meetdev.alerafart.com/" target="_blank">
+                    <img height="125px" src="img/rocket.png" />
+                </a>
+          </p>  
+        </p>   
+    
 </h3>
 
 
