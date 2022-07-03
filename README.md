@@ -20,7 +20,7 @@
                 <img height="125px" src="img/laughing.svg" />
             </a>
         </p>   
-        <p align="center">
+        <p align="center"> MeetDev project done in groupe of 5 developers
             <a href="http://www.meetdev.alerafart.com/" target="_blank">
                 <img height="125px" src="img/rocket.png" />
             </a>
