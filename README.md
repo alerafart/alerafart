@@ -14,7 +14,7 @@
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </h3>
 <h3 align="center"> Projects <br><br>
-    <p align="center"> La fabrique des rires :clown_face: (en cours)
+    <p align="center"> The Joke Factory :clown_face: (en cours)
         <p align="center">
             <a href="https://www.jokefactory.alerafart.com/" target="_blank">
                 <img height="125px" src="img/laughing.svg" />
@@ -22,7 +22,7 @@
         </p>   
         <p align="center">
             <a href="http://www.meetdev.alerafart.com/" target="_blank">
-                <img height="125px" src="" />
+                <img height="125px" src="img/rocket.png" />
             </a>
         </p>   
     </p>
