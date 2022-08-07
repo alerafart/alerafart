@@ -21,13 +21,20 @@
             </a>
         </p>  
     </p>
-        <p align="center"> MeetDev <br> project done in groupe of 5 developers
-            <p align="center">
-                <a href="http://www.meetdev.alerafart.com/" target="_blank">
-                    <img height="125px" src="img/rocket.png" />
-                </a>
-          </p>  
-        </p>   
+    <p align="center"> MeetDev <br> project done in groupe of 5 developers
+        <p align="center">
+            <a href="http://www.meetdev.alerafart.com/" target="_blank">
+                <img height="125px" src="img/rocket.png" />
+            </a>
+      </p>  
+    </p>
+    <p align="center"> Portfolio <br> project done with React-Redux, Sass and Material UI library
+        <p align="center">
+            <a href="https://www.alerafart.com/" target="_blank">
+                <img height="125px" src="img/portfolio.png" />
+            </a>
+      </p>  
+    </p> 
     
 </h3>
 
