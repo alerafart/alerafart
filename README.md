@@ -14,7 +14,7 @@
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </h3>
 <h3 align="center"> Projects <br><br>
-    <p align="center"> The Joke Factory :clown_face: <br> 
+    <p align="center"> <a href="https://www.jokefactory.alerafart.com/" target="_blank" rel="noreferrer">The Joke Factory :clown_face:</a> <br> 
     Project done with React-Redux, Sass, axios and external joke API
         <p align="center">
             <a href="https://www.jokefactory.alerafart.com/" target="_blank" rel="noreferrer">
