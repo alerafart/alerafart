@@ -17,7 +17,7 @@
     <p align="center"> The Joke Factory :clown_face: <br> 
     Project done with React-Redux, Sass, axios and external joke API
         <p align="center">
-            <a href="https://www.jokefactory.alerafart.com/" target="_blank">
+            <a href="https://www.jokefactory.alerafart.com/" target="_blank" rel="noreferrer">
                 <img height="125px" src="img/laughing.svg" />
             </a>
         </p>  
