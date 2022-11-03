@@ -36,7 +36,6 @@
     Back end in Lumen Laravel
     </p>
     <br> 
-    
     <p align="center"> <a href="https://www.alerafart.com/" target="_blank">Portfolio</a><br> 
         <p align="center">
             <a href="https://www.alerafart.com/" target="_blank">
