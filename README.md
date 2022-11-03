@@ -22,6 +22,7 @@
             </a>
         </p>  
     </p>
+    <br> 
     <p align="center"> <a href="http://www.meetdev.alerafart.com/" target="_blank" rel="noreferrer">MeetDev</a> <br> Project done in groupe of 5 developers
     <br> Front end done with React-Redux, Sass and axios. <br>
     Back end in Lumen Laravel
@@ -31,6 +32,7 @@
             </a>
       </p>  
     </p>
+    <br> 
     <p align="center"> <a href="https://www.alerafart.com/" target="_blank">Portfolio</a><br> Project done with React-Redux, Sass and Material UI library
         <p align="center">
             <a href="https://www.alerafart.com/" target="_blank">
@@ -38,6 +40,7 @@
             </a>
       </p>  
     </p>
+    <br> 
     <p align="center"> <a href="https://spacetourism-alerafart.vercel.app/" target="_blank">Space Tourism</a><br> Multipage site from Frontendmentor challenges <br>  done with React and Sass from scratch
         <p align="center">
             <a href="https://spacetourism-alerafart.vercel.app/" target="_blank">
