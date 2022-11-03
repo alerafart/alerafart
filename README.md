@@ -14,13 +14,14 @@
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </h3>
 <h3 align="center"> Projects <br><br>
-    <p align="center"> <a href="https://www.jokefactory.alerafart.com/" target="_blank" rel="noreferrer">The Joke Factory :clown_face:</a> <br> 
-    Project done with React-Redux, Sass, axios and external joke API
+    <p align="center"> <a href="https://www.jokefactory.alerafart.com/" target="_blank" rel="noreferrer">
         <p align="center">
             <a href="https://www.jokefactory.alerafart.com/" target="_blank" rel="noreferrer">
                 <img height="125px" src="img/laughing.svg" />
             </a>
-        </p>  
+        </p> 
+        The Joke Factory :clown_face:</a> <br> 
+    Project done with React-Redux, Sass, axios and external joke API
     </p>
     <br> 
     <p align="center"> <a href="http://www.meetdev.alerafart.com/" target="_blank" rel="noreferrer">MeetDev</a> <br> Project done in groupe of 5 developers
@@ -33,20 +34,22 @@
       </p>  
     </p>
     <br> 
-    <p align="center"> <a href="https://www.alerafart.com/" target="_blank">Portfolio</a><br> Project done with React-Redux, Sass and Material UI library
+    <p align="center"> <a href="https://www.alerafart.com/" target="_blank">Portfolio</a><br> 
         <p align="center">
             <a href="https://www.alerafart.com/" target="_blank">
                 <img height="125px" src="img/portfolio.png" />
             </a>
-      </p>  
+        </p>
+      Project done with React-Redux, Sass and Material UI library
     </p>
     <br> 
-    <p align="center"> <a href="https://spacetourism-alerafart.vercel.app/" target="_blank">Space Tourism</a><br> Multipage site from Frontendmentor challenges <br>  done with React and Sass from scratch
+    <p align="center"> <a href="https://spacetourism-alerafart.vercel.app/" target="_blank">Space Tourism</a><br> 
         <p align="center">
             <a href="https://spacetourism-alerafart.vercel.app/" target="_blank">
                 <img height="125px" src="img/spacetourism.png" />
             </a>
-      </p>  
+        </p>
+      Multipage site from Frontendmentor challenges <br>  done with React and Sass from scratch
     </p> 
 </h3>
 
