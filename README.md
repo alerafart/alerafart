@@ -14,7 +14,7 @@
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </h3>
 <h3 align="center"> Projects <br><br>
-    <p align="center"> <a href="https://www.jokefactory.alerafart.com/" target="_blank" rel="noreferrer">
+    <p align="center"> <a href="https://www.jokefactory.alerafart.com/" target="_blank" rel="noreferrer"></a>
         <p align="center">
             <a href="https://www.jokefactory.alerafart.com/" target="_blank" rel="noreferrer">
                 <img height="125px" src="img/laughing.svg" />
