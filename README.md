@@ -24,16 +24,19 @@
     Project done with React-Redux, Sass, axios and external joke API
     </p>
     <br> 
-    <p align="center"> <a href="http://www.meetdev.alerafart.com/" target="_blank" rel="noreferrer">MeetDev</a> <br> Project done in groupe of 5 developers
-    <br> Front end done with React-Redux, Sass and axios. <br>
-    Back end in Lumen Laravel
+    <p align="center"> <a href="http://www.meetdev.alerafart.com/" target="_blank" rel="noreferrer">MeetDev</a> <br> 
         <p align="center">
             <a href="http://www.meetdev.alerafart.com/" target="_blank">
                 <img height="125px" src="img/rocket.png" />
             </a>
-      </p>  
+        </p>
+       Project done in groupe of 5 developers
+    <br>
+    Front end done with React-Redux, Sass and axios. <br>
+    Back end in Lumen Laravel
     </p>
     <br> 
+    
     <p align="center"> <a href="https://www.alerafart.com/" target="_blank">Portfolio</a><br> 
         <p align="center">
             <a href="https://www.alerafart.com/" target="_blank">
