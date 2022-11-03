@@ -13,7 +13,7 @@
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </h3>
-<h3 align="center"> Projects <br><br></h3>
+<h3 align="center"> Projects <br><br>
     <p align="center"> <a href="https://www.jokefactory.alerafart.com/" target="_blank" rel="noreferrer">
         <p align="center">
             <a href="https://www.jokefactory.alerafart.com/" target="_blank" rel="noreferrer">
