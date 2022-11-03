@@ -38,7 +38,7 @@
             </a>
       </p>  
     </p>
-    <p align="center"> <a href="https://spacetourism-alerafart.vercel.app/" target="_blank">Space Tourism</a><br> Frontendmentor challenge done with React and Sass  From scratch
+    <p align="center"> <a href="https://spacetourism-alerafart.vercel.app/" target="_blank">Space Tourism</a><br> Multipage site from Frontendmentor challenges <br>  done with React and Sass from scratch
         <p align="center">
             <a href="https://spacetourism-alerafart.vercel.app/" target="_blank">
                 <img height="125px" src="img/spacetourism.png" />
