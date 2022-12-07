@@ -57,7 +57,7 @@
     <p align="center"> <a href="https://kurku-app1.vercel.app/" target="_blank">Kurku App Landing Page</a><br> 
         <p align="center">
             <a href="https://kurku-app1.vercel.app/" target="_blank">
-                <img height="125px" src="img/spacetourism.png" />
+                <img height="125px" src="img/kurku.png" />
             </a>
         </p>
       Landing page for a musician's application for users to learn with video tutorials<br>  done with NextJs (React) and Sass from scratch
