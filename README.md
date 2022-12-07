@@ -53,6 +53,16 @@
         </p>
       Multipage site from Frontendmentor challenges <br>  done with React and Sass from scratch
     </p> 
+    <br> 
+    <p align="center"> <a href="https://kurku-app1.vercel.app/" target="_blank">Kurku App Landing Page</a><br> 
+        <p align="center">
+            <a href="https://kurku-app1.vercel.app/" target="_blank">
+                <img height="125px" src="img/spacetourism.png" />
+            </a>
+        </p>
+      Landing page for a musician's application for users to learn with video tutorials<br>  done with NextJs (React) and Sass from scratch
+    </p> 
+    
 </h3>
 
 
