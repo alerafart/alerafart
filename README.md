@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there 👋 ! Welcome to my profile!</h1>
 <p align="center"><img align="center" height="190px" src="https://github.com/alerafart/alerafart/blob/main/img/alex.png"></p>
 <h2>
-🌱 I'm a brand new developer working mostly in React and also PHP. <br>
+🌱 I'm a junior developer working mostly in Vue Js at the moment, I've previously worked in React and also PHP. <br>
 🌱 I’m currently learning lots of stuff everyday and 👯 I'm looking for my first job as a front-end or fullstack developer.
 </h2>
 <h3 align="left">📫 How to reach me: 
