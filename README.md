@@ -54,7 +54,7 @@
       Multipage site from Frontendmentor challenges <br>  done with React and Sass from scratch
     </p> 
     <br> 
-    <p align="center"> <a href="https://kurku-app1.vercel.app/" target="_blank">Kurku App Landing Page</a><br> 
+    <p align="center"> <a href="https://about.kurku.tech/" target="_blank">Kurku App Landing Page</a><br> 
         <p align="center">
             <a href="https://about.kurku.tech/" target="_blank">
                 <img height="125px" src="img/kurku.png" />
