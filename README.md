@@ -3,8 +3,7 @@
 <p align="center"><img align="center" height="190px" src="https://github.com/alerafart/alerafart/blob/main/img/alex.png"></p>
 <h2>
 🌱 I'm a junior developer working mostly in Javascript Vue Js at the moment, I've previously worked in React and also PHP. <br>
-🌱 I’m currently learning lots of stuff everyday and 👯 I'm looking for my first job as a front-end or fullstack developer.
-</h2>
+🌱 I’m currently learning lots of stuff everyday in my first job as a vueJs front-end developper. Not very active in github lately, as my current job works with gitlab.
 <h3 align="left">📫 How to reach me: 
     <a href="mailto:maalejandrarafart@gmail.com">
         <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
