@@ -2,8 +2,8 @@
 <h1 align="center"> Hi there 👋 ! Welcome to my profile!</h1>
 <p align="center"><img align="center" height="190px" src="https://github.com/alerafart/alerafart/blob/main/img/alex.png"></p>
 <h2>
-🌱 I'm a junior developer working mostly in Javascript Vue Js at the moment, I've previously worked in React and also PHP. <br>
-🌱 I’m currently learning lots of stuff everyday in my first job as a vueJs front-end developper. Not very active in github lately, as my current job works with gitlab.
+🌱 I'm a passionate developer working mostly in Javascript Vue Js at the moment, I've previously worked in React and also PHP. <br>
+🌱 I’m currently learning lots of stuff, actually developing an app as a fullstack dev in VueJs 3 and Express JS. Not very active in github lately, as in my current job we use gitlab.
 <h3 align="left">📫 How to reach me: 
     <a href="mailto:maalejandrarafart@gmail.com">
         <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
