@@ -66,7 +66,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alerafart&count_private=true&hide=stars&show_icons=true&theme=merko)
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alerafart&layout=compact&langs_count=8&theme=merko&exclude_repo=github-readme-stats,html-css-excercise-cv&hide=css,html" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alerafart&layout=compact&langs_count=8&theme=merko&exclude_repo=github-readme-stats,html-css-excercise-cv&hide=css,html,scss" />
 
 <!--
 **alerafart/alerafart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
